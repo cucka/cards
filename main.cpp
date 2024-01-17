@@ -18,5 +18,7 @@ int main()
     w.drawDecks();
     w.game();
 
+    cout<<"llala";
+
     return 0;
 }
