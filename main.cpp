@@ -21,7 +21,7 @@ int main()
 
     cout<<"llala";
 
-    cout<<"Hello from master";
+    cout<<"Hello from master :)";
     cout<<"Hello from dev";
 
 
