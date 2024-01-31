@@ -23,6 +23,7 @@ int main()
 
     cout<<"Hello from master :)";
     cout<<"Hello from dev";
+    cout<<"2"<<endl;
 
 
     return 0;
