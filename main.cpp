@@ -19,7 +19,7 @@ int main()
     w.drawDecks();
     w.game();
 
-    cout<<"llala";
+    cout<<"llala :)";
 
     cout<<"Hello from master :)";
     cout<<"Hello from dev";
